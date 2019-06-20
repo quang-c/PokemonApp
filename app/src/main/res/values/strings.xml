@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestPokeApi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_0_cm">0cm</string>
+    <string name="weight">Weight: </string>
+    <string name="_00_g">00g</string>
+    <string name="height">Height: </string>
+    <string name="hint">Hint</string>
+    <string name="hintAnswer">These are the pokemons that are in the quiz.\n\nCaterpie\nSeel\nMagikarp\nDitto\nTentacruel\nHorsea\nPidgeot\nOnix</string>
+    <string name="search_for_a_pokemon">Search Pokemon</string>
+    <string name="play_the_quiz">Play the quiz</string>
+    <string name="pokemon_name">Pokemon Name: </string>
+    <string name="pokedex_entry">Pokedex Entry: </string>
+</resources>
